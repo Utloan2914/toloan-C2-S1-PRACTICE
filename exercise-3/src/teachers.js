@@ -20,3 +20,4 @@ export const ALL_PNV_TEACHERS = [
     title: "IT Trainer",
   },
 ];
+
