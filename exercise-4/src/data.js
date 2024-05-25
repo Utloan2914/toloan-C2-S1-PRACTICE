@@ -1,28 +1,10 @@
-import forestWaterfallImg from "./assets/forest-waterfall.jpg";
-import desertDunes from "./assets/desert-dunes.jpg";
-import majesticMountains from "./assets/majestic-mountains.jpg";
-import caribbeanBeachImg from "./assets/caribbean-beach.jpg";
-import ruinsImg from "./assets/ruins.jpg";
-import rainforestImg from "./assets/rainforest.jpg";
-import northernLightsImg from "./assets/northern-lights.jpg";
-import japaneseTempleImg from "./assets/japanese-temple.jpg";
-import greatBarrierReefImg from "./assets/great-barrier-reef.jpg";
-import parisianStreetsImg from "./assets/parisian-streets.jpg";
-import grandCanyonImg from "./assets/grand-canyon.jpg";
-import venetianCanalsImg from "./assets/venetian-canals.jpg";
-import tajMahalImg from "./assets/taj-mahal.jpg";
-import keralaBackwatersImg from "./assets/kerala-backwaters.jpg";
-import africanSavannaImg from "./assets/african-savanna.jpg";
-import victoriaFallsImg from "./assets/victoria-falls.jpg";
-import machuPicchuImg from "./assets/machu-picchu.jpg";
-import amazonRiverImg from "./assets/amazon-river.jpg";
 
 export const AVAILABLE_PLACES = [
   {
     id: "p1",
     title: "Forest Waterfall",
     image: {
-      src: forestWaterfallImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
   },
@@ -30,7 +12,8 @@ export const AVAILABLE_PLACES = [
     id: "p2",
     title: "Sahara Desert Dunes",
     image: {
-      src: desertDunes,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
     },
   },
@@ -38,7 +21,8 @@ export const AVAILABLE_PLACES = [
     id: "p3",
     title: "Himalayan Peaks",
     image: {
-      src: majesticMountains,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "The sun setting behind snow-capped peaks of majestic mountains.",
     },
   },
@@ -46,7 +30,8 @@ export const AVAILABLE_PLACES = [
     id: "p4",
     title: "Caribbean Beach",
     image: {
-      src: caribbeanBeachImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Pristine white sand and turquoise waters of a Caribbean beach.",
     },
   },
@@ -54,7 +39,8 @@ export const AVAILABLE_PLACES = [
     id: "p5",
     title: "Ancient Grecian Ruins",
     image: {
-      src: ruinsImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Historic ruins standing tall against the backdrop of the Grecian sky.",
     },
   },
@@ -62,7 +48,8 @@ export const AVAILABLE_PLACES = [
     id: "p6",
     title: "Amazon Rainforest Canopy",
     image: {
-      src: rainforestImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Lush canopy of a rainforest, teeming with life.",
     },
   },
@@ -70,7 +57,8 @@ export const AVAILABLE_PLACES = [
     id: "p7",
     title: "Northern Lights",
     image: {
-      src: northernLightsImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Dazzling display of the Northern Lights in a starry sky.",
     },
   },
@@ -78,7 +66,8 @@ export const AVAILABLE_PLACES = [
     id: "p8",
     title: "Japanese Temple",
     image: {
-      src: japaneseTempleImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Ancient Japanese temple surrounded by autumn foliage.",
     },
   },
@@ -86,7 +75,8 @@ export const AVAILABLE_PLACES = [
     id: "p9",
     title: "Great Barrier Reef",
     image: {
-      src: greatBarrierReefImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Vibrant coral formations of the Great Barrier Reef underwater.",
     },
   },
@@ -94,7 +84,8 @@ export const AVAILABLE_PLACES = [
     id: "p10",
     title: "Parisian Streets",
     image: {
-      src: parisianStreetsImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Charming streets of Paris with historic buildings and cafes.",
     },
   },
@@ -102,7 +93,8 @@ export const AVAILABLE_PLACES = [
     id: "p11",
     title: "Grand Canyon",
     image: {
-      src: grandCanyonImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Expansive view of the deep gorges and ridges of the Grand Canyon.",
     },
   },
@@ -110,7 +102,8 @@ export const AVAILABLE_PLACES = [
     id: "p12",
     title: "Venetian Canals",
     image: {
-      src: venetianCanalsImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Glistening waters of the Venetian canals as gondolas glide by at sunset.",
     },
   },
@@ -118,7 +111,8 @@ export const AVAILABLE_PLACES = [
     id: "p13",
     title: "Taj Mahal",
     image: {
-      src: tajMahalImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "The iconic Taj Mahal reflecting in its surrounding waters during sunrise.",
     },
   },
@@ -126,7 +120,8 @@ export const AVAILABLE_PLACES = [
     id: "p14",
     title: "Kerala Backwaters",
     image: {
-      src: keralaBackwatersImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Tranquil waters and lush greenery of the Kerala backwaters.",
     },
   },
@@ -134,7 +129,8 @@ export const AVAILABLE_PLACES = [
     id: "p15",
     title: "African Savanna",
     image: {
-      src: africanSavannaImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Wild animals roaming freely in the vast landscapes of the African savanna.",
     },
   },
@@ -142,7 +138,8 @@ export const AVAILABLE_PLACES = [
     id: "p16",
     title: "Victoria Falls ",
     image: {
-      src: victoriaFallsImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "The powerful cascade of Victoria Falls, a natural wonder between Zambia and Zimbabwe.",
     },
   },
@@ -150,7 +147,8 @@ export const AVAILABLE_PLACES = [
     id: "p17",
     title: "Machu Picchu",
     image: {
-      src: machuPicchuImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "The historic Incan citadel of Machu Picchu illuminated by the morning sun.",
     },
   },
@@ -158,7 +156,8 @@ export const AVAILABLE_PLACES = [
     id: "p18",
     title: "Amazon River",
     image: {
-      src: amazonRiverImg,
+      src: "https://thuelens.com/wp-content/uploads/2020/08/iStock-517188688.jpg",
+
       alt: "Navigating the waters of the Amazon River, surrounded by dense rainforest.",
     },
   },
